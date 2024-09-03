@@ -22,4 +22,4 @@ This repository contains the Power BI Desktop project files for the Olympics Das
    - Focus on upcoming Olympic events, specifically the Paris 2024 Games.
    - Includes predictions, event schedules, and key information on future games.
 
-**Link**: https://drive.google.com/file/d/1AYpJhl8AMN3wO_9m1RcTxWUTHrTkRGyW/view?usp=drive_link
+
